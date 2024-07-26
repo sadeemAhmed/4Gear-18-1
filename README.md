@@ -1,4 +1,4 @@
-# TASK 2: Design Gear Train for 18:1 Ratio
+# TASK 2: Design four Gear for 18:1 Ratio
 
 ## Table of Contents ⚙️
 - [Project Description](#project-description)
