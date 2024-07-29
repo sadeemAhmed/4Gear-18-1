@@ -10,11 +10,11 @@
 ## Project Description 📝
 The "Design Gear Train for 18:1 Ratio" project involves creating a compound gear train that achieves an overall gear ratio of approximately 18:1. This project aims to design a compact and efficient gear train using three pairs of gears, with each pair contributing to the overall gear ratio.
 
--The objectives are to:
+The objectives are to:
 
--- Design a gear train with an 18:1 ratio.
--- Utilize gear pairs effectively to achieve the desired ratio.
--- Provide a step-by-step guide to replicate the design.
+- Design a gear train with an 18:1 ratio.
+- Utilize gear pairs effectively to achieve the desired ratio.
+- Provide a step-by-step guide to replicate the design.
 
 
 ## Technologies Used 🔧
