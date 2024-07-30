@@ -33,7 +33,6 @@ The objectives are to:
 ![G1](https://github.com/user-attachments/assets/ae023246-7d9d-42a6-8ebf-b02e3b6631b2)
 
 
-
 3. **Add Gear B**:
     - **Number of teeth**: 72
     - **Diametral pitch**: 8
@@ -43,7 +42,7 @@ The objectives are to:
     - **Auto position**: Enable to place Gear B relative to Gear A.
     - **X position**: Automatically calculated
     - **Y position**: Automatically calculated
-    ![Image of Gear B](https://example.com/gear_b_image)
+![G2](https://github.com/user-attachments/assets/b6d23dbb-dac5-43fc-bdec-de0593092573)
 
 4. **Add Gear C**:
     - **Number of teeth**: 12
@@ -54,7 +53,8 @@ The objectives are to:
     - **Auto position**: Enable to place Gear C on the same axle as Gear B.
     - **X position**: Same as Gear B
     - **Y position**: Same as Gear B
-    ![Image of Gear C](https://example.com/gear_c_image)
+ ![G3](https://github.com/user-attachments/assets/c0715ff1-6a88-41f8-aca6-46d4d458d4f1)
+     
 
 5. **Add Gear D**:
     - **Number of teeth**: 18
@@ -65,7 +65,8 @@ The objectives are to:
     - **Auto position**: Enable to place Gear D relative to Gear C.
     - **X position**: Automatically calculated
     - **Y position**: Automatically calculated
-    ![Image of Gear D](https://example.com/gear_d_image)
+![G4](https://github.com/user-attachments/assets/fecf35a5-6c6b-439f-af5f-2a157d3dd60d)
+
 
 6. **Add Gear E**:
     - **Number of teeth**: 10
@@ -76,7 +77,6 @@ The objectives are to:
     - **Auto position**: Enable to place Gear E on the same axle as Gear D.
     - **X position**: Same as Gear D
     - **Y position**: Same as Gear D
-    ![Image of Gear E](https://example.com/gear_e_image)
 
 7. **Add Gear F**:
     - **Number of teeth**: 12
@@ -87,15 +87,13 @@ The objectives are to:
     - **Auto position**: Enable to place Gear F relative to Gear E.
     - **X position**: Automatically calculated
     - **Y position**: Automatically calculated
-    ![Image of Gear F](https://example.com/gear_f_image)
+
 
 ## File Structure 🏗️
 
 - `README.md`: This file, containing information about the project.
-- `images/`: Directory containing images for the steps.
 
 ## Video Demonstration 🎥
-
 
 ---
 ## link of our project
