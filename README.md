@@ -95,6 +95,8 @@ The objectives are to:
 
 ## Video Demonstration 🎥
 
+https://github.com/user-attachments/assets/3b0b20d6-dc7e-4ea3-a83c-b40a56025d2d
+
 ---
 ## link of our project
 [Geargenerator.com](https://geargenerator.com/#200,200,100,20,1,3,67449.29999988156,4,1,8,1,8,20,0,0,0,0,0,0,0,72,9,8,20,-30,0,0,0,0,1,1,12,1.5,8,20,0,0,0,0,0,2,0,24,3,8,20,0,0,0,0,0,0,0,3,-237)
