@@ -30,7 +30,9 @@ The objectives are to:
     - **Diametral pitch**: 8
     - **Pressure angle**: 20°
     - **Position**: Set as the first gear at the origin (0, 0).
-    ![Image of Gear A](https://example.com/gear_a_image)
+![G1](https://github.com/user-attachments/assets/ae023246-7d9d-42a6-8ebf-b02e3b6631b2)
+
+
 
 3. **Add Gear B**:
     - **Number of teeth**: 72
